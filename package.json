@@ -1,0 +1,13 @@
+{
+  "name": "banquet-frontend-template-spa",
+  "version": "1.0.0-SNAPSHOT",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "@toasttab/banquet-cli": "latest"
+  },
+  "volta": {
+    "node": "16.14.0",
+    "yarn": "1.22.0"
+  }
+}
